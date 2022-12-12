@@ -1,4 +1,3 @@
-# Component
+# Embedding Expression
 
-ReactJs Class or sometime a Function that is part of the UI.
-For example: Button, NavBar, Footer, Card, etc. Combine it like a puzzle to build an amazing app!
+JSX are code that we have created before, such as `<div>` and `<p>`. Now how to embed expression (variable, function, etc) on it?
