@@ -1,3 +1,3 @@
-# Embedding Expression
+# Event
 
-JSX are code that we have created before, such as `<div>` and `<p>`. Now how to embed expression (variable, function, etc) on it?
+Use a component called Button or a href to play with ReactJs events. usually write events using camelcase
